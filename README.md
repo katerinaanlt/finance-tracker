@@ -1,7 +1,5 @@
 # Finance Tracker
 
-[![tests](https://github.com/<your-username>/finance-tracker/actions/workflows/tests.yml/badge.svg)](https://github.com/<your-username>/finance-tracker/actions)
-
 A desktop personal-finance app built with **Python, PyQt5, matplotlib, OpenCV and Tesseract OCR**.
 Track your balance and expenses, see where your money goes in a live pie chart, scan receipts
 to pre-fill amounts (Greek and English), keep separate profiles, and build a streak by staying
